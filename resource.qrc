@@ -1,0 +1,95 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/player_image/player.png</file>
+        <file>image/player_image/player5.png</file>
+        <file>image/player_image/player2.png</file>
+        <file>image/player_image/player3.png</file>
+        <file>image/player_image/player4.png</file>
+
+
+        <file>image/UI_image/background.png</file>
+        <file>image/UI_image/win.png</file>
+        <file>image/UI_image/win_text.png</file>
+        <file>image/UI_image/fail.png</file>
+        <file>image/UI_image/fail_text_1.png</file>
+        <file>image/UI_image/fail_text_2.png</file>
+        <file>image/UI_image/start.png</file>
+        <file>image/UI_image/start_text.png</file>
+        <file>image/UI_image/GameStart.png</file>
+        <file>image/UI_image/GameStart_press.png</file>
+        <file>image/UI_image/acheivement.png</file>
+        <file>image/UI_image/acheivement_press.png</file>
+        <file>image/UI_image/acheivement_press.png</file>
+        <file>image/UI_image/back.png</file>
+        <file>image/UI_image/back_press.png</file>
+        <file>image/UI_image/sleep.png</file>
+        <file>image/UI_image/sleep_press.png</file>
+        <file>image/UI_image/playagain.png</file>
+        <file>image/UI_image/playagain_press.png</file>
+        <file>image/UI_image/wrong.png</file>
+        <file>image/UI_image/wrong_press.png</file>
+
+        <file>image/record_image/acheive_Y_87.png</file>
+        <file>image/record_image/acheive_Y_buddha.png</file>
+        <file>image/record_image/acheive_Y_cannot.png</file>
+        <file>image/record_image/acheive_Y_perfect.png</file>
+        <file>image/record_image/acheive_Y_TA.png</file>
+        <file>image/record_image/acheive_Y_ult.png</file>
+        <file>image/record_image/acheive_N_87.png</file>
+        <file>image/record_image/acheive_N_buddha.png</file>
+        <file>image/record_image/acheive_N_cannot.png</file>
+        <file>image/record_image/acheive_N_perfect.png</file>
+        <file>image/record_image/acheive_N_TA.png</file>
+        <file>image/record_image/acheive_N_ult.png</file>
+        <file>image/record_image/record.png</file>
+
+        <file>image/bullet_image/bullet_1.png</file>
+        <file>image/bullet_image/bullet_2.png</file>
+
+        <file>image/bullet_image/HelloWorld/Hello_H.png</file>
+        <file>image/bullet_image/HelloWorld/Hello_E.png</file>
+        <file>image/bullet_image/HelloWorld/Hello_L.png</file>
+        <file>image/bullet_image/HelloWorld/Hello_O.png</file>
+        <file>image/bullet_image/HelloWorld/World_W.png</file>
+        <file>image/bullet_image/HelloWorld/World_O.png</file>
+        <file>image/bullet_image/HelloWorld/World_R.png</file>
+        <file>image/bullet_image/HelloWorld/World_L.png</file>
+        <file>image/bullet_image/HelloWorld/World_D.png</file>
+
+        <file>image/bullet_image/loop/for.png</file>
+        <file>image/bullet_image/loop/while.png</file>
+
+        <file>image/bullet_image/class/ctor.png</file>
+        <file>image/bullet_image/class/dtor.png</file>
+
+        <file>image/bullet_image/evilQt/QPushButton.png</file>
+        <file>image/bullet_image/evilQt/SIGNAL.png</file>
+        <file>image/bullet_image/evilQt/SLOT.png</file>
+
+        <file>image/boss_image/Boss_1.png</file>
+        <file>image/boss_image/Boss_2.png</file>
+        <file>image/boss_image/Boss_3.png</file>
+        <file>image/boss_image/Boss_4.png</file>
+
+
+        <file>image/message_image/boss_hp_1.png</file>
+        <file>image/message_image/boss_hp_2.png</file>
+        <file>image/message_image/boss_hp_3.png</file>
+        <file>image/message_image/boss_hp_4.png</file>
+        <file>image/message_image/player_hp.png</file>
+        <file>image/message_image/score.png</file>
+        <file>image/message_image/skill.png</file>
+        <file>image/message_image/0.png</file>
+        <file>image/message_image/1.png</file>
+        <file>image/message_image/2.png</file>
+        <file>image/message_image/3.png</file>
+        <file>image/message_image/4.png</file>
+        <file>image/message_image/5.png</file>
+        <file>image/message_image/6.png</file>
+        <file>image/message_image/7.png</file>
+        <file>image/message_image/8.png</file>
+        <file>image/message_image/9.png</file>
+
+
+    </qresource>
+</RCC>
