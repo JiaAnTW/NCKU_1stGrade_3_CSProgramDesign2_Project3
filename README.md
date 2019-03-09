@@ -18,16 +18,16 @@ The player use **W, A, S, D buttons** to controll the liver and have to dodge en
 ## Information board
 * Score: 
     Add when player's attack hit the enemy.
-    Minus when player was hit by the enemy's attack.
+    Minus when player was hit by the enemy's attack.  
     ![](https://i.imgur.com/NpnlPX9.png)
      
-* Enemy's health
+* Enemy's health  
     ![](https://i.imgur.com/A0tQKaI.png)
 
 * Ultimate and player's health:
     When using ultimate, all the enemy's attack will disapper and player will get full health.
-    The player's "health" means how many percent of his/her liver is still works.
-![](https://i.imgur.com/uIKYyDz.png)
+    The player's "health" means how many percent of his/her liver is still works.  
+    ![](https://i.imgur.com/uIKYyDz.png)
 
 ***
 ## Boss
@@ -36,16 +36,16 @@ There are 4 different level boss in this game.
 **(Boss's stucture is simular to player with Polymorphism)**
 ### Boss 1:  DEV C++
 ![](https://i.imgur.com/gC8SjPq.png)
-* Move path: liner
-* HP: 5
-* attack: hello world! 
-![](https://i.imgur.com/tYuz89F.png)
+* Move path: liner  
+* HP: 5  
+* attack: hello world!  
+![](https://i.imgur.com/tYuz89F.png)  
 (Yes, this is what it actually looks like)
 ### Boss 2:  Loop
 ![](https://i.imgur.com/JaAWAHl.png)
 * Move path: circle
 * HP: 10
-* attack: for/while 
+* attack: for/while  
 ![](https://i.imgur.com/3hQHKp3.png)
 
 ### Boss 3:  Class
@@ -61,7 +61,7 @@ There are 4 different level boss in this game.
 
 * Move path: circle, but very fast
 * HP: 40
-* attack: signal/slot/QPushButton
+* attack: signal/slot/QPushButton  
     ![](https://i.imgur.com/HN75hkF.png)
     
 ***
